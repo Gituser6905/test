@@ -1,0 +1,31 @@
+:root {
+  
+  --primary: #009dff;
+  --primary-hover: #009dff;
+  --primary-dark: #ad0b30;
+
+  --secondary: #000;
+  --secondary-hover: #000;
+  --secondary-light: #a7bffe;
+  --title: #000;
+  --bg-light: #fffaf3;
+  --light-dark: #feeb9d;
+  --theme-text-color: #000000;
+  --dark: #151f37;
+  --dark-light: #f9f9f9;
+
+
+  --rgba-primary-1: rgba(204, 13, 57, 0.1);
+  --rgba-primary-2: rgba(204, 13, 57, 0.2);
+  --rgba-primary-3: rgba(204, 13, 57, 0.3);
+  --rgba-primary-4: rgba(204, 13, 57, 0.4);
+  --rgba-primary-5: rgba(204, 13, 57, 0.5);
+  --rgba-primary-6: rgba(204, 13, 57, 0.6);
+  --rgba-primary-7: rgba(204, 13, 57, 0.7);
+  --rgba-primary-8: rgba(204, 13, 57, 0.8);
+  --rgba-primary-9: rgba(204, 13, 57, 0.9);
+
+
+  --gradient1: linear-gradient(307deg, #feeb9d 1.9%, #ffdfe7 67.57%);
+  --gradient2: linear-gradient(307deg, #ffea96 1.9%, #ffb0b0 85.96%);
+}
